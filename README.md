@@ -1,6 +1,6 @@
 - `👋` Hi, I’m @LeKea
 - `👦`  Ikea (Le_Kea)
-- `🔪` 17
+- `🔪` 18
 - `🤠` He/Him
 - `😊` Kind
 - `💻` DELL Inspiron 3881.
