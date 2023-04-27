@@ -1,16 +1,15 @@
 - `👋` Hi, I’m @LeKea
 - `👦`  Ikea (Le_Kea)
-- `🔪` 18
 - `🤠` He/Him
 - `😊` Kind
-- `💻` DELL Inspiron 3881.
+- `💻` 16GB RAM, 3050 OC.
 - `👨‍💻` Advanced in JS, Lua, HTML, Discord.JS and others.
 - `👷` Professional Roblox Builder.
 - `🌱` I’m currently learning how to be a better person.
 - `💞️` I’m looking to collaborate on Roblox
 - `📫` How to reach me:
 
-- Contact me on discord: `WizzAviation#9062`
+- Contact me on discord: `ikea.#3324`
 - Contact me on twitter: `@LeKea15`
 - Contact me on DevForums: `Le_Kea`
 
