@@ -2,7 +2,7 @@
 - `👦`  Ikea (Le_Kea)
 - `🤠` He/Him
 - `😊` Kind
-- `💻` 16GB RAM, 3050 OC.
+- `💻` 16GB RAM, GEFORCE RTX 3050 OC.
 - `👨‍💻` Advanced in JS, Lua, HTML, Discord.JS and others.
 - `👷` Professional Roblox Builder.
 - `🌱` I’m currently learning how to be a better person.
