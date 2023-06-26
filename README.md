@@ -9,7 +9,7 @@
 - `💞️` I’m looking to collaborate on Roblox
 - `📫` How to reach me:
 
-- Contact me on discord: `ikea.#3324`
+- Contact me on discord: `dan_iell`
 - Contact me on twitter: `@LeKea15`
 - Contact me on DevForums: `Le_Kea`
 
